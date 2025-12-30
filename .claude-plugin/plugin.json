@@ -1,0 +1,9 @@
+{
+  "name": "personal",
+  "version": "1.0.0",
+  "description": "Personal Claude Code plugin for dodi workflows - frontend development, Supabase, and GitHub automation",
+  "author": {
+    "name": "Asen Lekov"
+  },
+  "keywords": ["frontend", "react", "nextjs", "tailwind", "supabase", "github"]
+}
